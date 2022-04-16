@@ -11,12 +11,12 @@ struct SYM {
 
 template<typename T, int size>
 class TPQueue {
-private:
+ private:
 int first;
 int last;
 T arr[10];
 
-public:
+ public:
 TPQueue() {
 first = 0;
 last = 0;
