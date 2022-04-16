@@ -17,7 +17,6 @@ int last;
 T arr[10];
 
 public:
-
 TPQueue() {
 first = 0;
 last = 0;
